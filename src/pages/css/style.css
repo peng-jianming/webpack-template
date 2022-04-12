@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'SHS';
+  src: url('../fonts/shs.otf');
+}
+
+#app {
+  font-family: 'SHS';
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  background: url('src/pages/img/img.jpg');
+  transform: translate(30%);
+}
